@@ -1,0 +1,6 @@
+
+views=>products=>product.ejs
+
+\\
+render cyclic railway to host the website
+\\
